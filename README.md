@@ -1,5 +1,5 @@
 #This code helps in creation of a simple dashboard using R Shiny
-# R-Shiny-Dashboard
+# RShinyDashboard
 library(shiny)
 library(ggplot2)
 library(dplyr)
