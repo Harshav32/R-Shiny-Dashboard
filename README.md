@@ -1,3 +1,4 @@
+#This code helps in creation of a simple dashboard using R Shiny
 # R-Shiny-Dashboard
 library(shiny)
 library(ggplot2)
